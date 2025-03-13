@@ -4,7 +4,7 @@ Resource    ../resources/keywords.robot
 Test Teardown    Fechar o navegador
 
 *** Test Cases ***
-Cadastro realizado com sucesso
+Caso de teste 01: Cadastro realizado com sucesso
     [Tags]    cadastro_sucesso
         Dado que eu acesso a tela de cadastro
         Quando eu preencho os campos obrigatórios
