@@ -20,7 +20,6 @@ PROJETO_SGID_TESTS/
 │   ├── cadastro_erro.robot    # Testes de fluxo com erro
 │   ├── cadastro_sucesso.robot # Testes de fluxo com sucesso
 │── README.md               # Documentação do projeto
-│── interactive_console_output.xml # Logs da execução
 ```
 
 ---
